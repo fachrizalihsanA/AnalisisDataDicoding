@@ -1,8 +1,8 @@
 # AnalisisDataDicoding
 # Instalasi Setup
 ```
-conda create --name main-ds python=3.9
-conda activate main-ds
+Create --name main-ds python=3.9
+Activate main-ds
 pip install pandasmatplotlib seaborn jupyter streamlit 
 ```
 # Jalankan streamlit
